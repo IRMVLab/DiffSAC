@@ -1,6 +1,6 @@
 # DiffSAC: Diffusion-guided Sampling for Consensus-based Robust Estimation
 
-This repository contains the example code of "DiffSAC: Diffusion-guided Sampling for Consensus-based Robust Estimation" for line detection tasks.
+This repository contains the example code of "DiffSAC: Diffusion-guided Sampling for Consensus-based Robust Estimation" for 2D line fitting task. We will release the full code after the paper is accepted.
 
 ## 🔥 Overview
 
